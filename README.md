@@ -1,7 +1,7 @@
 # Winter-war
 Moje hra vytvořena pro soutěž Eustory.
 
-NÁVOD NA INSTALACI
+NÁVOD NA INSTALACI:
 Podle svého operačního systému stáhněte složku Windows nebo Linux. Poté spusťte main.exe (win) nebo main (linux).
 Ve hře jsou následující zbraně:
 
