@@ -5,8 +5,11 @@ NÁVOD NA INSTALACI:
 Podle svého operačního systému stáhněte složku Windows nebo Linux. Poté spusťte main.exe (win) nebo main (linux).
 
 Příběh hry je vymyšlen mnou, hudba vytvořena SUNO AI.
+
 Následující obrázky byly vytvořeny ChatGPT a poté mnou upraveny:
+
 L35, M28, KP31, Finský voják, mrtvý Sovětský voják, pozadí v menu.
+
 Informace pocházi hlavně od ChatGPT a ClaudeAI, ale jinak ZDROJE:
 
 
