@@ -1,0 +1,69 @@
+{
+
+    "1": {
+        "unlocked":"1",
+        "finished":"0",
+        "type": "cutscene",
+        "comment":"úvodní scéna, intro do problému, jak vznikla válka, intro k postavě - jsi finský voják atd atd. Brzy ráno 30.11.1939 Cutscéna končí voláním útok když spíš na stráži v mini zákopu. Duration cca 20-30sec"
+    },
+    "2": {
+        "unlocked": "0",
+        "type": "gameplay",
+        "finished": "0",
+        "comment": "Střílíš sověty s L35, potom s KP31 Duration 3 min"
+    },
+    "3": {
+        "unlocked": "0",
+        "type": "cutscene",
+        "finished": "0",
+        "comment":"Info k molotovu. Duration cca 15 sec"
+    },
+    "4": {
+        "unlocked": "0",
+        "type": "gameplay",
+        "finished": "0",
+        "comment": "Střílení po rusech samopalem i molotvem ze zákopu. Duration 3 min."
+    },
+    "5": {
+        "unlocked": "0",
+        "type": "cutscene",
+        "finished": "0",
+        "comment":"Intro k motti, vysvětlení. 'Byl jsi povolán k motti bla bla bla' Duration cca 20 sec"
+    },
+    "6": {
+        "unlocked": "0",
+        "type": "gameplay",
+        "finished": "0",
+        "comment": "Jedeš na motti, jsi na běžkách? Musíš nepozorovaně obklíčit ruské tanky a vzadu jim odříznout zásobování. Duration cca 1.5 min"
+    },
+    "7": {
+        "unlocked": "0",
+        "type": "gameplay",
+        "finished": "0",
+        "comment":"útok na rusy z motti, hustá střílečka zezadu. Duration:cca 2.5 min"
+    },
+    "8": {
+        "unlocked": "0",
+        "type": "cutscene",
+        "finished": "0",
+        "comment":"Na konci útoku tě raní v lese, trochu pištění a bílá obrazovka, pak zjistíš že jsi sám za rukou linií a musíš se dostat zpátky. Jsi raněn a venku je -40C, máš odpočet 7 min za který se musíš 'prosekat' ke svým zákopům než umrzneš. Duration: cca 40 sec"
+    },
+    "9": {
+        "unlocked": "0",
+        "type": "gameplay",
+        "finished": "0",
+        "comment":"Jsi raněn a venku je -40C, musíš 'prosekat' ke svým zákopům než umrzneš (odpočet 7 min) . Předpokládám že tahle část hry bude nejvíc fun, duration: max 7 min limitováno odpočtem"
+    },
+    "10":{
+        "unlocked": "0",
+        "type": "cutscene",
+        "finished": "0"
+    },
+
+
+
+
+
+    "comment": "Made in 2025 by Mikulas Pater, všechny obrázky dělal ChatGPT nebo jsou staženy no copyright z internetu, všechnu hudbu dělal Suno, ChatGPT a Claude pomáhali s infem, ale kód a příběh jsou 100% moje."
+
+}
