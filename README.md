@@ -7,9 +7,9 @@ Na stažení doporučuji https://download-directory.github.io/ kam vložíte odk
 
 NÁVOD NA INSTALACI - VIEDO: https://www.youtube.com/watch?v=Kj0hW_hvySY
 
-Celý gameplay včetně informačních slidů najdete zde:
+CELÝ GAMEPLAY VČETNĚ INOFRMAČNÍCH SLIDŮ NAJDETE ZDE:
 
-
+https://www.youtube.com/watch?v=kKwVQYsT3Z0
 
 Příběh hry je vymyšlen mnou, hudba vytvořena SUNO AI.
 
