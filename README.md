@@ -3,7 +3,7 @@ Moje hra vytvořena pro soutěž Eustory.
 
 NÁVOD NA INSTALACI:
 Podle svého operačního systému stáhněte složku Windows nebo Linux.
-Na stažení doporučuji https://download-directory.github.io/ kam vložíte odkaz https://github.com/mikulaspater/Winter-war/tree/main/LINUX pro linux a odkaz https://github.com/mikulaspater/Winter-war/tree/main/WINDOWS pro windows. Poté složku rozzipujte a spusťte main.exe (win) nebo main (linux). U linuxu budete možná muset soubor main označit jako executable.
+Na stažení doporučuji https://download-directory.github.io/ kam vložíte odkaz https://github.com/mikulaspater/Winter-war/tree/main/LINUX pro linux a odkaz https://github.com/mikulaspater/Winter-war/tree/main/WINDOWS pro windows. Poté složku rozzipujte a spusťte main.exe (win) nebo main (linux). U linuxu budete možná muset soubor main označit jako executable. Je možné, že vám soubor main.exe pro windows zakáže anitvirus, protože není od ověřeného vydavatele. S tím bohužel nic neudělám. Můžete zkusit v nastavení antiviru soubor whitelistnout.
 
 Celý gameplay včetně informačních slidů najdete zde:
 
