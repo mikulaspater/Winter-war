@@ -3,7 +3,7 @@ Moje hra vytvořena pro soutěž Eustory.
 
 NÁVOD NA INSTALACI:
 Podle svého operačního systému stáhněte složku Windows nebo Linux.
-Na stažení doporučuji https://download-directory.github.io/ kam vložíte odkaz https://github.com/mikulaspater/Winter-war/tree/main/LINUX pro linux a odkaz https://github.com/mikulaspater/Winter-war/tree/main/WINDOWS pro windows. Poté složku rozzipujte a spusťte main.exe (win) nebo main (linux). U linuxu budete možná muset soubor main označit jako executable. Je možné, že vám soubor main.exe pro windows zakáže anitvirus, protože není od ověřeného vydavatele. S tím bohužel nic neudělám. Můžete zkusit v nastavení antiviru soubor whitelistnout.
+Na stažení doporučuji https://download-directory.github.io/ kam vložíte odkaz https://github.com/mikulaspater/Winter-war/tree/main/LINUX pro linux a odkaz https://github.com/mikulaspater/Winter-war/tree/main/WINDOWS pro windows. Poté složku rozzipujte a spusťte main.exe (win) nebo main (linux). U linuxu budete možná muset soubor main označit jako executable. Je možné, že vám soubor main.exe pro windows zakáže anitvirus, protože není od ověřeného vydavatele. S tím bohužel nic neudělám. Můžete zkusit v nastavení antiviru soubor whitelistnout. Tato hra bude pravěpodobně mnohem lépe fungovat na linuxu a s rozlišením obrazovky 1920x1080.
 
 NÁVOD NA INSTALACI - VIEDO: https://www.youtube.com/watch?v=Kj0hW_hvySY
 
@@ -25,7 +25,7 @@ Následující obrázky byly vytvořeny ChatGPT a poté mnou upraveny:
 
 L35, M28, Finský voják, mrtvý Sovětský voják, pozadí v menu, strom, oheň, základna.
 
-Zbytek obrázků a zvuků byly buď vytvořeny mnou nebo staženy noc copyright z internetu.
+Zbytek obrázků a zvuků byly buď vytvořeny mnou nebo staženy no copyright z internetu.
 
 Informace pocházi hlavně od ChatGPT a ClaudeAI, ale jinak ZDROJE:
 
@@ -50,3 +50,5 @@ https://www.britannica.com/event/Russo-Finnish-War
 https://www.rferl.org/a/finlands-winter-war-with-the-soviet-union/30280490.html
 
 Rád bych poděkoval paní Prof. Kupcové za donucení mě udělat dějepisný projekt pro tuto soutěž a také frajerům z openai kteří vyvinuli ChatGPT.
+
+mikulaspater@gmail.com
